@@ -30,7 +30,6 @@ Software Engineer Intern                                                        
 
 
 EDUCATION
-
 Continuing Education                                                             
 * Udemy: The Complete 2024 Web Development Bootcamp                                             02/2024 – 04/2024
 * Udemy: 100 Days of Code: The Complete Python Pro Bootcamp                                     10/2023 – 04/2024 
